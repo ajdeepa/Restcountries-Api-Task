@@ -1,0 +1,25 @@
+body{
+    background-color:paleturquoise
+}
+.card-title{
+    text-align: center;
+    background-color:gray;
+    height: 40px;
+    
+
+}
+.container{
+    border: 300px;
+    padding: 50px 50px;
+
+    text-align: center;
+
+}
+.col-md-4{
+    max-height: fit-content;
+    max-width:fit-content;
+}
+.btn btn-primary{
+    background-color:red;
+    color: aqua;
+}
